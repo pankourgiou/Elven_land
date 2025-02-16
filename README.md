@@ -1,0 +1,1 @@
+It's a simple exploration game you will have to set the two .png files from issues folder on the same folder as the .py file which is written in python programming language. I show in previous videos here how we execute a python program so it shouldn't be too difficult. Enjoy the trip!
